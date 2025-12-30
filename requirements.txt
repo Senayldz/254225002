@@ -1,17 +1,13 @@
-# Temel Veri İşleme ve Bilimsel Hesaplama
 numpy
 pandas
 scikit-learn
 
-# Derin Öğrenme ve Model Mimarisi (TensorFlow/Keras)
 tensorflow>=2.16.0
 keras-hub
 keras-cv
 keras-tuner
 
-# Görselleştirme ve Analiz
 matplotlib
 seaborn
 
-# Veri Yükleme ve Yardımcı Araçlar
 scipy
