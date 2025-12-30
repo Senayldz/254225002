@@ -1,4 +1,4 @@
-# 🩺 Vision Transformer (ViT) ile Akne Şiddeti Sınıflandırması
+# Vision Transformer (ViT) ile Akne Şiddeti Sınıflandırması
 
 Bu proje, yüz görüntülerinden akne şiddetini (**Level 0, 1, 2**) Vision Transformer (ViT) mimarisi kullanarak sınıflandıran, akademik amaçlı bir derin öğrenme çalışmasıdır. Proje kapsamında hem standart denetimli öğrenme hem de **Öz-denetimli Öğrenme (Self-Supervised Learning - SSL)** yaklaşımları test edilmiştir.
 
